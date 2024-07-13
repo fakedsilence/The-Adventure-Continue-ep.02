@@ -1,0 +1,4 @@
+repository "The Adventure Continue ep.02@gaoxim@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
